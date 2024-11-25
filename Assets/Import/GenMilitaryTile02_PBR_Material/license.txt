@@ -1,0 +1,11 @@
+Model Information:
+* title:	GenMilitaryTile02 PBR Material
+* source:	https://sketchfab.com/3d-models/genmilitarytile02-pbr-material-08c88dda4f8c4ea69f27a6e3f6890e2e
+* author:	d880 (https://sketchfab.com/distance880)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "GenMilitaryTile02 PBR Material" (https://sketchfab.com/3d-models/genmilitarytile02-pbr-material-08c88dda4f8c4ea69f27a6e3f6890e2e) by d880 (https://sketchfab.com/distance880) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
