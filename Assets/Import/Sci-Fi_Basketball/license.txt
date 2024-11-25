@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sci-Fi Basketball
+* source:	https://sketchfab.com/3d-models/sci-fi-basketball-544280ee7a4a486a9c67d31e819dc4f0
+* author:	EverZax (https://sketchfab.com/EverZax)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sci-Fi Basketball" (https://sketchfab.com/3d-models/sci-fi-basketball-544280ee7a4a486a9c67d31e819dc4f0) by EverZax (https://sketchfab.com/EverZax) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
