@@ -9,7 +9,7 @@ public class WaterTrail : MonoBehaviour
 
     private void OnTriggerExit(Collider other)
     {
-        if (other.CompareTag("Water"))
+        if (other.CompareTag("Player"))
         {
             // Membuat decal pada posisi bola
             CreateWaterDecal(transform.position);

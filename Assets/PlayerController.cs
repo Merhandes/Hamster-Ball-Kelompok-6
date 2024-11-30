@@ -4,12 +4,13 @@ using UnityEngine;
 using UnityEngine.UI;
 
 using System.Collections;
+using TMPro;
 
 public class PlayerController : MonoBehaviour {
 
 	// Create public variables for player speed, and for the Text UI game objects
 	public float speed;
-	public Text countText;
+	public TMP_Text countText;
 	public Text winText;
 
 	// Create private references to the rigidbody component on the player, and the count of pick up objects picked up so far
