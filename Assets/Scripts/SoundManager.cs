@@ -6,9 +6,8 @@ public class SoundManager : MonoBehaviour
 {
     public AudioSource sumberSuara;
 
-    public void ketikaSliderDiubah(float nilaiSlider)
+    public void KetikaSliderDiubah(float nilaiSlider)
     {
         sumberSuara.volume = nilaiSlider;
     }
-    
 }
