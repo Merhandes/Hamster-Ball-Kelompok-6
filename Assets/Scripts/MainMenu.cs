@@ -10,10 +10,10 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadScene("SampleScene");
     }
 
-    // public void Options()
-    // {
-    //     SceneManager.LoadScene("OptionsMenu");
-    // }
+    public void Options()
+    {
+        SceneManager.LoadScene("OptionsMenu");
+    }
     public void Quit ()
     {
         Application.Quit();
