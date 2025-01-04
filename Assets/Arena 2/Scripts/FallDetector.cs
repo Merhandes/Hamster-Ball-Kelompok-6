@@ -4,16 +4,17 @@ using UnityEngine;
 
 public class FallDetector : MonoBehaviour
 {
-    public GameManager gameManager;
-
     void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Player")) // Pastikan bola memiliki tag "Player"
+        if (other.CompareTag("Player"))
         {
-            Debug.Log("Ball entered fall detector area."); // Log untuk melacak
-            gameManager.ResetBallPosition(other.gameObject);
+            Debug.Log("Ball entered fall detector area.");
+
+            // Panggil GameManager untuk reset posisi
+            if (GameManager.instance != null)
+            {
+                GameManager.instance.ResetBallPosition(other.gameObject);
+            }
         }
     }
 }
-
-
